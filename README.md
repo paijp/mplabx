@@ -1,2 +1,2 @@
 # mplabx
-Microchip PIC compiler and programmer.
+Dockerfile and sample makefile for Microchip PIC compiler and programmer.
