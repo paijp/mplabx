@@ -42,5 +42,5 @@ RUN set -x &&\
 	
 COPY makefile test.asm /root/
 
-CMD cd;make
+CMD cd&&make build
 
